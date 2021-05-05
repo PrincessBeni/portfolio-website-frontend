@@ -1,0 +1,25 @@
+.about-me{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+.about-me > h1{
+    color: #9601a3;
+    margin-top: 80px;
+}
+.about-me > p{
+    font-family: 'Trebuchet HS', 'Lucida Sans Unicode','Lucida Grande',
+    'Lucida Sans', Arial, sans-serif ;
+    
+}
+ .paragraph > p{
+    font-family: 'Trebuchet HS', 'Lucida Sans Unicode','Lucida Grande',
+    'Lucida Sans', Arial, sans-serif ;
+    font-size: 15px;
+    margin: 0 150px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+ }
